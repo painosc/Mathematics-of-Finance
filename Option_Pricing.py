@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[21]:
-
+#We implement the Black-Schole pricing for European call via monte carlo and analytical
 
 import numpy as np
 import matplotlib.pyplot as plt

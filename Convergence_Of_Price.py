@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[21]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats as st
@@ -142,10 +136,6 @@ Results = pd.DataFrame(results, columns=[
 ])
 
 print(Results)
-
-
-# In[ ]:
-
 
 
 

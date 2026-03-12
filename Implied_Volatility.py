@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import numpy as np
 import scipy.stats as st
 V_market = 2    
@@ -53,10 +47,3 @@ print(message)
 
 val = BS_Call_Option_Price(S_0,K,sigma_imp,T,r)
 print('Option Price for implied volatility of {0} is equal to {1}'.format(sigma_imp, val))
-
-
-# In[ ]:
-
-
-
-
